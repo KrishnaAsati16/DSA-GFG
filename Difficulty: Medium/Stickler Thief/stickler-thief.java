@@ -1,4 +1,4 @@
-      class Solution{
+ class Solution{
           static int [] dp;
           public int findMaxSum(int arr[]){
               int n = arr.length;
